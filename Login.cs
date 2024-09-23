@@ -14,6 +14,9 @@ namespace Blood_Bank_Management
 
         private void label1_Click(object sender, EventArgs e)
         {
+
+
+
             // Add any logic needed here
         }
 
